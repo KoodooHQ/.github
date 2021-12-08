@@ -96,7 +96,7 @@ Examples:
   - [ ] AC1: Molecule tests pass
   - [ ] AC2: NTP config is updated as expected
   - [ ] AC3: README has been updated to include the new NTP options
-  - [ ] Tests pass in GitHub Actions
+  - [ ] Tests pass in GitHub Actions/CircleCI
   - [ ] LGTM :+1:
 
 The below are standard acceptance criteria that should be included in most
