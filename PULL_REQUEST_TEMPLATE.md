@@ -16,9 +16,9 @@ forefront of the reviewer's mind.
 ### Prerequisites
 
 <!--
-Do I need any specific tools, applications or configuration to review and
-manually test this PR? Below are some examples, if specific versions
-required, ensure this is specified:
+Do I need any specific tools, applications, account access or configuration
+to review and manually test this PR? Below are some examples, if specific
+versions required, ensure this is specified:
 
   - `jq`
   - `docker`
@@ -26,6 +26,7 @@ required, ensure this is specified:
   - `poetry`
   - `terraform >= 0.12`
   - https://gist.github.com/username/link-to-some-config
+  - Access to Auth0 production
 
 Delete this section if necessary or specify "None".
 -->
