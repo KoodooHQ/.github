@@ -24,7 +24,7 @@ versions required, ensure this is specified:
   - `docker`
   - `yarn`
   - `poetry`
-  - `terraform >= 0.12`
+  - `terraform >= 1.0.0`
   - https://gist.github.com/username/link-to-some-config
   - Access to Auth0 production
 
