@@ -59,7 +59,7 @@ of changes in formatting.
 Keep in mind that if you are requesting reviews across multiple disciplines
 (dev, platform, data), that you may need to put in links to documentation for
 workstation setup or instructions on how to run the code to ensure
-accessability to everyone.
+accessibility to everyone.
 
 These should form the basis for building an acceptance criteria, think about
 how to demonstrate that the changes contribute to the desired fix or feature
