@@ -1,8 +1,8 @@
 ## Description
 
 <!--
-High level description for the PR, what feature or fix is this PR delivering?
-HINT: include link to the Jira ticket or GitHub issue, eg. "Fixes #127"
+Link to Jira ticket with high-level description for the PR, what feature or fix is this PR delivering?
+
 -->
 
 ### Summary
@@ -24,7 +24,8 @@ versions required, ensure this is specified:
   - `docker`
   - `yarn`
   - `poetry`
-  - `terraform >= 1.0.0`
+  - `terraform >= 1.3.9`
+  - `platform toolkit (./go)`
   - https://gist.github.com/username/link-to-some-config
   - Access to Auth0 production
 
@@ -40,10 +41,6 @@ large, can you break the PR up into smaller PRs?
 Don't worry about accuracy, we're trying to give a rough estimate to reviewers
 so that they can plan this in around their other work. Think about how long it
 might take you to review a similar PR.
-
-Delete this section if you don't want/need it, however it's good to try to be
-kind and courteous to your reviewers and set some expectations on how much
-time you might require for them to look at your changes.
 -->
 
   - Reviewing changes takes about _n minutes_.<!-- Rough estimate.  -->
