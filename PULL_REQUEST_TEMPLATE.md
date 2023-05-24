@@ -2,7 +2,6 @@
 
 <!--
 Link to Jira ticket with high-level description for the PR, what feature or fix is this PR delivering?
-
 -->
 
 ### Summary
